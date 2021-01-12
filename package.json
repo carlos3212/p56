@@ -1,5 +1,5 @@
 {
-  "name": "p56",
+  "name": "trabajo",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,8 +8,11 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "Carlos Andrade",
+  "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "15.5.1"
+  },
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
